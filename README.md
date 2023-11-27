@@ -23,11 +23,9 @@ To run the NST algorithm, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-3. **Provide the correct location of VGG19 weights file:**
+3. **Replace content image and the style image based on your preference**
 
-4. **Replace input images:**
-
-5. **Run the main script:**
+4. **Run the main script:**
 
    ```bash
    python neural_style_transfer.py
