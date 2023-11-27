@@ -18,14 +18,9 @@ To run the NST algorithm, follow these steps:
    git clone https://github.com/your-username/neural-style-transfer.git
    cd neural-style-transfer
 
-2. **Install the required dependencies:**
+2. **Replace content image and the style image based on your preference**
 
-   ```bash
-   pip install -r requirements.txt
-
-3. **Replace content image and the style image based on your preference**
-
-4. **Run the main script:**
+3. **Run the main script:**
 
    ```bash
    python neural_style_transfer.py
